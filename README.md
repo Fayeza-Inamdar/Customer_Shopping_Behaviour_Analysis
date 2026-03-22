@@ -6,6 +6,8 @@ This project focuses on analyzing customer shopping behavior to uncover key insi
 
 The entire workflow demonstrates end-to-end analytics skills—data cleaning, transformation, visualization, and business interpretation—using Power BI.
 
+![image alt](https://github.com/Fayeza-Inamdar/Customer_Shopping_Behaviour_Analysis/blob/main/Screenshot%202026-03-22%20134745.png)
+
 🎯 Objective
 --
 To analyze customer behavior across demographic groups, product categories, and time periods in order to:
